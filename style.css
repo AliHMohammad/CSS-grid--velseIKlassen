@@ -45,18 +45,19 @@ h1 {
 }
 
 
-/* Til grid-template-areas
+
 
 @media (min-width: 800px){
     .grid-container{
         grid-template-areas: 
-        "he"
-        "na"
-        "ar"
-        "as"
-        "se"
-        "me";
+        "he he"
+        "na na"
+        "ar ar"
+        "as as"
+        "se se"
+        "me me";
         grid-auto-rows: 20vh;(?)
     }
 }
-*/
+
+
